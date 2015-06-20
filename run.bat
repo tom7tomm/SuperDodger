@@ -1,0 +1,3 @@
+echo launching arcadeAggrivation...
+start "SuperDoger" "%PROGRAMFILES%\LOVE\love" .
+echo sucsessfully ran L2DMadness, now exiting
