@@ -3,6 +3,7 @@ require "menu"
 require "world"
 
 function love.load()
+	width = love.graphics.getWidth()
 	gamestate = "menu"
 	menu.load()
 	player.load()
